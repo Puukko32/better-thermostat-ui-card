@@ -3,6 +3,13 @@
     "version": "versio",
     "current": "Nykyinen"
   },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_heat": "Lämmitys pois"
+      }
+    }
+  },
   "extra_states": {
     "window_open": "Ikkuna auki",
     "night_mode": "Yötila",
